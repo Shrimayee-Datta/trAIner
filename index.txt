@@ -2,7 +2,7 @@ Fitlife - Work Hard To Get Better Life
 
 
 
-#---------- HEADER ----------#
+#----------- HEADER -----------#
 
 <ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
 Fitlife
